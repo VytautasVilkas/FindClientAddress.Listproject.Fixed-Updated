@@ -8,7 +8,11 @@ obj/
 
 # Ignore application configuration files containing sensitive information
 app.config
-
+Newtonsoft.Json.dll
+Newtonsoft.Json.pdb
+Newtonsoft.Json.xml
+PowerShell Sample 2.ps1
+PowerShell Sample.ps1
 # Optional: Ignore other system-specific files
 .vscode/
 *.suo
