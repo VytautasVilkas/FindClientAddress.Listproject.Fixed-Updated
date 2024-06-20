@@ -1,0 +1,22 @@
+ 
+# Ignore build and object directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+
+# Ignore application configuration files containing sensitive information
+app.config
+
+# Optional: Ignore other system-specific files
+.vscode/
+*.suo
+*.userosscache
+*.userprefs
+
+# Ignore temporary files
+*.tmp
+*.log
+*.temp
+*.cache
